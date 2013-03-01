@@ -1,4 +1,4 @@
 sprockets-demo
 ==============
 
-use sprockets to help develop your web page
+use sprockets to develop your web page
